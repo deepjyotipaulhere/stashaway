@@ -1,0 +1,6 @@
+1.	Navigate to the code folder
+2.	Open Command Prompt or Terminal and run "npm install"
+3.	After install is done, run "npm run dev"
+4.	Open web browser and navigate to http://localhost:3000
+
+Note:	For reference please see the screenshots of the app present in Screenshots folder
